@@ -32,6 +32,10 @@ Links to external materials can be found in the table below:
 | XXXX     | XXXXXXXX        |   XXXXXXXXXXXXX             |   XXXXXXXXXXXX   |
 
 
+## Contributing to this repository
+
+Please feel free to submit a pull request into this repository with your material added to the 'content' folder, alternatively email your materials in a single folder containing a file called README.md in the top level, which describes the code, to [rsmith@darkpeakanalytics.com](mailto:rsmith@darkpeakanalytics.com) and we will upload for you.
+
 ## Using this repository
 
 Please feel free to clone this repository to your machine, or download the files as a zip folder. This can be done by clicking on the green button on the top right.
