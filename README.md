@@ -34,10 +34,12 @@ Links to external materials can be found in the table below:
 
 ## Using this repository
 
-Please clone this repository to your machine, or download the files as a zip folder. This can be done by clicking on the green button on the top right.
+Please feel free to clone this repository to your machine, or download the files as a zip folder. This can be done by clicking on the green button on the top right.
 
 ![image](https://user-images.githubusercontent.com/41961614/192293545-5dcca23f-c3db-410b-95cf-529256356f85.png)
 
-If you have downloaded the ZIP, please ensure that you unzip the folder and then click on the r4he-uic.Rproj file to load the project into RStudio.
+If you have downloaded the ZIP, please ensure that you unzip the folder and then click on the R project file to load the project into RStudio.
 
 We hope you find the content useful!
+
+Rob (On behalf of the wider R-HTA team)
