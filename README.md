@@ -17,7 +17,8 @@ Links to external materials can be found in the table below:
 
 | Author                  | Title                                                                         | Institution                                          | Links           |
 | ----------------        | ----------                                                                    |   ----------                                         |  ----------------- |
-| Robert Smith & Tom Ward | assertHE: an R package to improve quality assurance of health economic models | Dark Peak Analytics / University of Sheffield        |  [R package](https://github.com/dark-peak-analytics/assertHE); [Slides]()              |
+| Robert Smith & Tom Ward | assertHE: an R package to improve quality assurance of health economic models | Dark Peak Analytics, UoS & GSK        |  [R package](https://github.com/dark-peak-analytics/assertHE); [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/RHTA24-assertHE.pdf)              |
+| Dawn Lee & Darren Burns | Learnings from the design of a pathway model in R | Peninsula Technology Assessment Group (PenTAG)        |  [Paper]([https://github.com/dark-peak-analytics/assertHE](https://doi.org/10.1007/s41669-024-00490-x)); [slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/2024-06-24%20PATT%20slides.pdf)             |
 
 ### Monday 1st July 2024
 
