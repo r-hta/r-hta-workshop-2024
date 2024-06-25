@@ -15,9 +15,9 @@ Links to external materials can be found in the table below:
 
 ### Friday 28th June 2024
 
-| Author           | Institution       | Type of material |    Link           |
-| ---------------- | ----------        | -----------------| ----------------- |
-| Robert Smith     | Dark Peak Analytics / University of Sheffield        |   R package               |    [link](https://github.com/dark-peak-analytics/assertHE)               |
+| Author                  | Title                                                                         | Institution                                          | Links           |
+| ----------------        | ----------                                                                    |   ----------                                         |  ----------------- |
+| Robert Smith & Tom Ward | assertHE: an R package to improve quality assurance of health economic models | Dark Peak Analytics / University of Sheffield        |  [R package](https://github.com/dark-peak-analytics/assertHE); [Slides]()              |
 
 ### Monday 1st July 2024
 
