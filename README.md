@@ -24,7 +24,9 @@ Links to external materials can be found in the table below:
 
 | Author           | Institution       | Type of material |    Link           |
 | ---------------- | ----------        | -----------------| ----------------- |
-| XXXX     | XXXXXXXX        |   XXXXXXXXXXXXX             |   XXXXXXXXXXXX   |
+| Anna Grootendorst | NHTA, CSL Seqirus | slides           | <https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/421%20R%20for%20HTA%20presentation%20v1.0%2025%20June%202024%20PDF.pdf> |
+| XXXX              | XXXXXXXX          | XXXXXXXXXXXXX    | XXXXXXXXXXXX     |
+
 
 ### Tuesday 2nd July 2024
 
