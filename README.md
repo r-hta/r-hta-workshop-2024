@@ -19,6 +19,7 @@ Links to external materials can be found in the table below:
 | ----------------        | ----------                                                                    |   ----------                                         |  ----------------- |
 | Robert Smith & Tom Ward | assertHE: an R package to improve quality assurance of health economic models | Dark Peak Analytics, UoS & GSK        |  [R package](https://github.com/dark-peak-analytics/assertHE); [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/RHTA24-assertHE.pdf)              |
 | Dawn Lee & Darren Burns | Learnings from the design of a pathway model in R | Peninsula Technology Assessment Group (PenTAG)        |  [Paper](https://doi.org/10.1007/s41669-024-00490-x); [slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/2024-06-24%20PATT%20slides.pdf)             |
+| Stuart Wright | Improving the speed of a discrete event simulation model in breast cancer screening: The experience of an intermediate level R user | University of Manchester | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/SW%20Speeding%20up%20R%20model.pdf)     |
 
 ### Monday 1st July 2024
 
@@ -26,8 +27,6 @@ Links to external materials can be found in the table below:
 |------------------      |------------------                                                              |-------------------                                    |-------------------|
 | Anna Grootendorst | Application of RShiny as a Strategic Tool for Evidence-Based Payer Engagement in Nordic Influenza Vaccine Tenders | NHTA, CSL Seqirus | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/421%20R%20for%20HTA%20presentation%20v1.0%2025%20June%202024%20PDF.pdf) |
 | Niccolò Morgante | Early modelling of ileostomy management systems: showcasing value in RShiny | NHTA | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Ileostomy%20RHTA.pdf) |
-| XXXX                   | XXXXXXXX                                                                       |   XXXXXXXXXXXXX                                       |   XXXXXXXXXXXX   |
-
 
 ### Tuesday 2nd July 2024
 
