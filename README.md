@@ -22,17 +22,18 @@ Links to external materials can be found in the table below:
 
 ### Monday 1st July 2024
 
-| Author           | Institution       | Type of material |    Link           |
-| ---------------- | ----------        | -----------------| ----------------- |
-| Anna Grootendorst | NHTA, CSL Seqirus | slides           | <https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/421%20R%20for%20HTA%20presentation%20v1.0%2025%20June%202024%20PDF.pdf> |
-| XXXX              | XXXXXXXX          | XXXXXXXXXXXXX    | XXXXXXXXXXXX     |
+| Author                 | Title                                                                          | Institution                                           | Links             |
+|------------------      |------------------                                                              |-------------------                                    |-------------------|
+| Anna Grootendorst | Application of RShiny as a Strategic Tool for Evidence-Based Payer Engagement in Nordic Influenza Vaccine Tenders | NHTA, CSL Seqirus | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/421%20R%20for%20HTA%20presentation%20v1.0%2025%20June%202024%20PDF.pdf) |
+| Niccolò Morgante | Early modelling of ileostomy management systems: showcasing value in RShiny | NHTA | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Ileostomy%20RHTA.pdf) |
+| XXXX                   | XXXXXXXX                                                                       |   XXXXXXXXXXXXX                                       |   XXXXXXXXXXXX   |
 
 
 ### Tuesday 2nd July 2024
 
-| Author           | Institution       | Type of material |    Link           |
-| ---------------- | ----------        | -----------------| ----------------- |
-| XXXX     | XXXXXXXX        |   XXXXXXXXXXXXX             |   XXXXXXXXXXXX   |
+| Author                 | Title                                                                          | Institution                                           | Links             |
+|------------------      |------------------                                                              |-------------------                                    |-------------------|
+| XXXX                   | XXXXXXXX                                                                       |   XXXXXXXXXXXXX                                       |   XXXXXXXXXXXX   |
 
 
 ## Contributing to this repository
