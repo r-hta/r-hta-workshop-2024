@@ -21,7 +21,7 @@ Links to external materials can be found in the table below:
 | Dawn Lee & Darren Burns | Learnings from the design of a pathway model in R | Peninsula Technology Assessment Group (PenTAG)        |  [Paper](https://doi.org/10.1007/s41669-024-00490-x); [slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/2024-06-24%20PATT%20slides.pdf)             |
 | Stuart Wright | Improving the speed of a discrete event simulation model in breast cancer screening: The experience of an intermediate level R user | University of Manchester | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/SW%20Speeding%20up%20R%20model.pdf)     |
 | Andrew Pijper & Jamie Kettle | Methods for estimating Healthy Life Expectancy | LCP Health Analytics | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Methods%20for%20estimating%20Healthy%20Life%20Expectancy%20-%20LCP_Pijper_Kettle.pdf)   |
-| Lewis Michaelwaite | The design and development of the easyBIM R package | Maple Health Group | [Slides]([https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Methods%20for%20estimating%20Healthy%20Life%20Expectancy%20-%20LCP_Pijper_Kettle.pdf](https://github.com/r-hta/r-hta-workshop-2024/tree/main/content/easyBIM%20-%20R%20HTA%20Slides))   |
+| Lewis Michaelwaite | The design and development of the easyBIM R package | Maple Health Group | [Slides](https://github.com/r-hta/r-hta-workshop-2024/tree/main/content/easyBIM%20-%20R%20HTA%20Slides)   |
 
 ### Monday 1st July 2024
 
