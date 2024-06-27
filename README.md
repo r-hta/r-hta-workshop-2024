@@ -22,6 +22,7 @@ Links to external materials can be found in the table below:
 | Stuart Wright | Improving the speed of a discrete event simulation model in breast cancer screening: The experience of an intermediate level R user | University of Manchester | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/SW%20Speeding%20up%20R%20model.pdf)     |
 | Andrew Pijper & Jamie Kettle | Methods for estimating Healthy Life Expectancy | LCP Health Analytics | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Methods%20for%20estimating%20Healthy%20Life%20Expectancy%20-%20LCP_Pijper_Kettle.pdf)   |
 | Lewis Michaelwaite | The design and development of the easyBIM R package | Maple Health Group | [Slides](https://github.com/r-hta/r-hta-workshop-2024/tree/main/content/easyBIM%20-%20R%20HTA%20Slides)   |
+| Michael O’Donnell | REEEVR - Automated Conversion of Excel to R | University of Bristol | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/R-HTA%202024%20presentation%20-%20Michael%20ODonnell%20.pdf)   |
 
 ### Monday 1st July 2024
 
