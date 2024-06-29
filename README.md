@@ -23,7 +23,7 @@ Links to external materials can be found in the table below:
 | Andrew Pijper & Jamie Kettle | Methods for estimating Healthy Life Expectancy | LCP Health Analytics | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Methods%20for%20estimating%20Healthy%20Life%20Expectancy%20-%20LCP_Pijper_Kettle.pdf)   |
 | Lewis Michaelwaite | The design and development of the easyBIM R package | Maple Health Group | [Slides](https://github.com/r-hta/r-hta-workshop-2024/tree/main/content/easyBIM%20-%20R%20HTA%20Slides)   |
 | Michael O’Donnell | REEEVR - Automated Conversion of Excel to R | University of Bristol | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/R-HTA%202024%20presentation%20-%20Michael%20ODonnell%20.pdf)   |
-| Andrew Clark | Cross-referencing and aggregating multiple independent sources to estimate subgroup-level values: The EQ-5D utility of emicizumab in severe haemophilia A | Delta Hat | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/2024-06-27_Andrew%20Clark%20R%20for%20HTA%20slides.pdf) |
+
 
 ### Monday 1st July 2024
 
@@ -31,12 +31,13 @@ Links to external materials can be found in the table below:
 |------------------      |------------------                                                              |-------------------                                    |-------------------|
 | Anna Grootendorst | Application of RShiny as a Strategic Tool for Evidence-Based Payer Engagement in Nordic Influenza Vaccine Tenders | NHTA, CSL Seqirus | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/421%20R%20for%20HTA%20presentation%20v1.0%2025%20June%202024%20PDF.pdf) |
 | Niccolò Morgante | Early modelling of ileostomy management systems: showcasing value in RShiny | NHTA | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Ileostomy%20RHTA.pdf) |
+| Junwen Zhou | Estimating Costs Associated with Disease Model States Using Generalized Linear Models in R | University of Oxford | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/R%20for%20HTA%202024_Junwen.pdf) |
 
 ### Tuesday 2nd July 2024
 
 | Author                 | Title                                                                          | Institution                                           | Links             |
 |------------------      |------------------                                                              |-------------------                                    |-------------------|
-| XXXX                   | XXXXXXXX                                                                       |   XXXXXXXXXXXXX                                       |   XXXXXXXXXXXX   |
+| Andrew Clark | Cross-referencing and aggregating multiple independent sources to estimate subgroup-level values: The EQ-5D utility of emicizumab in severe haemophilia A | Delta Hat | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/2024-06-27_Andrew%20Clark%20R%20for%20HTA%20slides.pdf) |
 
 
 ## Contributing to this repository
