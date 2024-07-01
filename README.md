@@ -11,7 +11,7 @@ For more information please see the [main website](https://r-hta.org/project/wor
 
 ## Materials
 
-Links to external materials can be found in the table below:
+Links to external materials can be found in the table below, thanks to Wael Mohammed for updating this throughout the workshop as new slides were made available.
 
 ### Friday 28th June 2024
 
@@ -24,13 +24,13 @@ Links to external materials can be found in the table below:
 | Lewis Michaelwaite | The design and development of the easyBIM R package | Maple Health Group | [Slides](https://github.com/r-hta/r-hta-workshop-2024/tree/main/content/easyBIM%20-%20R%20HTA%20Slides)   |
 | Michael O’Donnell | REEEVR - Automated Conversion of Excel to R | University of Bristol | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/R-HTA%202024%20presentation%20-%20Michael%20ODonnell%20.pdf)   |
 | Alfredo Mariani | The advantages and challenges of using R and Shiny to develop diagnostic pathway models for NICE clinical guidelines | NICE | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Sheffield.pptx)   |
+| Shubhram Pandey | R-Shiny tool to pool Kaplan Meier curves from single-arm studies using a distribution-free approach | heoRlytics | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Shubhram%20Pandey.pptx.pdf)   |
+
 
 ### Monday 1st July 2024
 
 | Author                 | Title                                                                          | Institution                                           | Links             |
 |------------------      |------------------                                                              |-------------------                                    |-------------------|
-| Anna Grootendorst | Application of RShiny as a Strategic Tool for Evidence-Based Payer Engagement in Nordic Influenza Vaccine Tenders | NHTA, CSL Seqirus | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/421%20R%20for%20HTA%20presentation%20v1.0%2025%20June%202024%20PDF.pdf) |
-| Niccolò Morgante | Early modelling of ileostomy management systems: showcasing value in RShiny | NHTA | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Ileostomy%20RHTA.pdf) |
 | Junwen Zhou | Estimating Costs Associated with Disease Model States Using Generalized Linear Models in R | University of Oxford | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/R%20for%20HTA%202024_Junwen.pdf) |
 | Sven Klijn | Modeling the Future: Pioneering the First Dossier Submission with R | Bristol Myers Squibb | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Modeling%20the%20Future%20-%20Pioneering%20the%20First%20Dossier%20Submission%20with%20R%20-%202024_07_01%20-%20FINAL.pdf)   |
 | Zachary Waller | Spending time to save time: strategies for making your code run faster | Queen’s University Belfast | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/RforHTA24%20Zachary%20Waller.pdf) |
@@ -40,6 +40,8 @@ Links to external materials can be found in the table below:
 | Author                 | Title                                                                          | Institution                                           | Links             |
 |------------------      |------------------                                                              |-------------------                                    |-------------------|
 | Andrew Clark | Cross-referencing and aggregating multiple independent sources to estimate subgroup-level values: The EQ-5D utility of emicizumab in severe haemophilia A | Delta Hat | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/2024-06-27_Andrew%20Clark%20R%20for%20HTA%20slides.pdf) |
+| Anna Grootendorst | Application of RShiny as a Strategic Tool for Evidence-Based Payer Engagement in Nordic Influenza Vaccine Tenders | NHTA, CSL Seqirus | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/421%20R%20for%20HTA%20presentation%20v1.0%2025%20June%202024%20PDF.pdf) |
+| Niccolò Morgante | Early modelling of ileostomy management systems: showcasing value in RShiny | NHTA | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Ileostomy%20RHTA.pdf) |
 
 
 ## Contributing to this repository
