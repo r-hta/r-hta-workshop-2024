@@ -11,7 +11,7 @@ For more information please see the [main website](https://r-hta.org/project/wor
 
 ## Materials
 
-Links to external materials can be found in the table below:
+Links to external materials can be found in the table below, thanks to Wael Mohammed for updating this throughout the workshop as new slides were made available.
 
 ### Friday 28th June 2024
 
@@ -24,6 +24,8 @@ Links to external materials can be found in the table below:
 | Lewis Michaelwaite | The design and development of the easyBIM R package | Maple Health Group | [Slides](https://github.com/r-hta/r-hta-workshop-2024/tree/main/content/easyBIM%20-%20R%20HTA%20Slides)   |
 | Michael O’Donnell | REEEVR - Automated Conversion of Excel to R | University of Bristol | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/R-HTA%202024%20presentation%20-%20Michael%20ODonnell%20.pdf)   |
 | Alfredo Mariani | The advantages and challenges of using R and Shiny to develop diagnostic pathway models for NICE clinical guidelines | NICE | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Sheffield.pptx)   |
+| Shubhram Pandey | R-Shiny tool to pool Kaplan Meier curves from single-arm studies using a distribution-free approach | heoRlytics | [Slides]()   |
+
 
 ### Monday 1st July 2024
 
