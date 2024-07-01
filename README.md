@@ -25,6 +25,7 @@ Links to external materials can be found in the table below, thanks to Wael Moha
 | Michael O’Donnell | REEEVR - Automated Conversion of Excel to R | University of Bristol | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/R-HTA%202024%20presentation%20-%20Michael%20ODonnell%20.pdf)   |
 | Alfredo Mariani | The advantages and challenges of using R and Shiny to develop diagnostic pathway models for NICE clinical guidelines | NICE | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Sheffield.pptx)   |
 | Shubhram Pandey | R-Shiny tool to pool Kaplan Meier curves from single-arm studies using a distribution-free approach | heoRlytics | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Shubhram%20Pandey.pptx.pdf)   |
+| Paul Schneider | Building Shiny Apps for Health Economic Models: A Practical Guide | Dark Peak Analytics | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Building%20Shiny%20Apps%20%20for%20HEM%20%E2%80%93%20Paul%20Schneider%20R4HTA%202024.pdf)   |
 
 
 ### Monday 1st July 2024
