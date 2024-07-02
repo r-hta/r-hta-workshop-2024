@@ -47,6 +47,7 @@ Links to external materials can be found in the table below, thanks to Wael Moha
 | Niccolò Morgante | Early modelling of ileostomy management systems: showcasing value in RShiny | NHTA | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Ileostomy%20RHTA.pdf) |
 | Jack Ettinger |	Assessing the Cost-effectiveness of Warmth on Prescription Schemes for COPD Patients: A Markov Model Analysis Using R | Parexel | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/rHTA%20Jack%20Ettinger%20Warmth%20on%20prescription.pptx) |
 | Dominic Muston | An R package to inform structural assumptions for three state oncology cost-effectiveness models and examine the impact of adjusting for background mortality (psm3mkv) | MSD | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Muston%20RHTA%20final.pdf) |
+| Annachiara Rossi | A User-Friendly R-Shiny Application for Indirect Treatment Comparisons in Health Technology Assessment | Novo Nordisk | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/itc_shiny_app.pdf) |
 
 
 ## Contributing to this repository
