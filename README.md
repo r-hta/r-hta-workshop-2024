@@ -35,6 +35,7 @@ Links to external materials can be found in the table below, thanks to Wael Moha
 | Junwen Zhou | Estimating Costs Associated with Disease Model States Using Generalized Linear Models in R | University of Oxford | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/R%20for%20HTA%202024_Junwen.pdf) |
 | Sven Klijn | Modeling the Future: Pioneering the First Dossier Submission with R | Bristol Myers Squibb | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Modeling%20the%20Future%20-%20Pioneering%20the%20First%20Dossier%20Submission%20with%20R%20-%202024_07_01%20-%20FINAL.pdf)   |
 | Zachary Waller | Spending time to save time: strategies for making your code run faster | Queen’s University Belfast | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/RforHTA24%20Zachary%20Waller.pdf) |
+| Jean-Etienne Poirrier | Using R for Health Economics Modelling in Consulting: R (are) We There Yet? | Parexel | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/240701-jepoirrier-HEOR-Modelling-Consulting.pdf) |
 
 ### Tuesday 2nd July 2024
 
