@@ -48,6 +48,7 @@ Links to external materials can be found in the table below, thanks to Wael Moha
 | Jack Ettinger |	Assessing the Cost-effectiveness of Warmth on Prescription Schemes for COPD Patients: A Markov Model Analysis Using R | Parexel | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/rHTA%20Jack%20Ettinger%20Warmth%20on%20prescription.pptx) |
 | Dominic Muston | An R package to inform structural assumptions for three state oncology cost-effectiveness models and examine the impact of adjusting for background mortality (psm3mkv) | MSD | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Muston%20RHTA%20final.pdf) |
 | Annachiara Rossi | A User-Friendly R-Shiny Application for Indirect Treatment Comparisons in Health Technology Assessment | Novo Nordisk | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/itc_shiny_app.pdf) |
+| Victoria Zaitceva | Analysing the Interval from Marketing Authorization to HTA Outcomes in High-Income Countries Using the Shiny Dashboard | HIVE Health Optimum | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Analysis%20of%20the%20interval%20from%20MA%20to%20HTA%20with%20Shiny%20Victoria%20Zaitceva%20Hive.pdf) |
 
 
 ## Contributing to this repository
