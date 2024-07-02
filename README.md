@@ -44,6 +44,7 @@ Links to external materials can be found in the table below, thanks to Wael Moha
 | Andrew Clark | Cross-referencing and aggregating multiple independent sources to estimate subgroup-level values: The EQ-5D utility of emicizumab in severe haemophilia A | Delta Hat | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/2024-06-27_Andrew%20Clark%20R%20for%20HTA%20slides.pdf) |
 | Anna Grootendorst | Application of RShiny as a Strategic Tool for Evidence-Based Payer Engagement in Nordic Influenza Vaccine Tenders | NHTA, CSL Seqirus | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/421%20R%20for%20HTA%20presentation%20v1.0%2025%20June%202024%20PDF.pdf) |
 | Niccolò Morgante | Early modelling of ileostomy management systems: showcasing value in RShiny | NHTA | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Ileostomy%20RHTA.pdf) |
+| Jack Ettinger | Assessing the Cost-effectiveness of Warmth on Prescription Schemes for COPD Patients: A Markov Model Analysis Using R | Parexel | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/rHTA%20Jack%20Ettinger%20Warmth%20on%20prescription.pptx) |
 
 
 ## Contributing to this repository
