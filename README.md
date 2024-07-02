@@ -36,6 +36,7 @@ Links to external materials can be found in the table below, thanks to Wael Moha
 | Sven Klijn | Modeling the Future: Pioneering the First Dossier Submission with R | Bristol Myers Squibb | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Modeling%20the%20Future%20-%20Pioneering%20the%20First%20Dossier%20Submission%20with%20R%20-%202024_07_01%20-%20FINAL.pdf)   |
 | Zachary Waller | Spending time to save time: strategies for making your code run faster | Queen’s University Belfast | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/RforHTA24%20Zachary%20Waller.pdf) |
 | Jean-Etienne Poirrier | Using R for Health Economics Modelling in Consulting: R (are) We There Yet? | Parexel | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/240701-jepoirrier-HEOR-Modelling-Consulting.pdf) |
+| Hawre Jalal | Introducing Grammar of Modeling R package (gmod) and the Decision Twigs graphical user interface for building HTA models | University of Ottawa | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/gmod_decision_twigs.pptx) |
 | Panel | Building capacity in the use of R for HTA | | [Jean-Etienne Poirrier](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/240701-jepoirrier-panel-building-capacity-R.pdf) |
 
 ### Tuesday 2nd July 2024
