@@ -46,6 +46,7 @@ Links to external materials can be found in the table below, thanks to Wael Moha
 | Anna Grootendorst | Application of RShiny as a Strategic Tool for Evidence-Based Payer Engagement in Nordic Influenza Vaccine Tenders | NHTA, CSL Seqirus | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/421%20R%20for%20HTA%20presentation%20v1.0%2025%20June%202024%20PDF.pdf) |
 | Niccolò Morgante | Early modelling of ileostomy management systems: showcasing value in RShiny | NHTA | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Ileostomy%20RHTA.pdf) |
 | Jack Ettinger |	Assessing the Cost-effectiveness of Warmth on Prescription Schemes for COPD Patients: A Markov Model Analysis Using R | Parexel | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/rHTA%20Jack%20Ettinger%20Warmth%20on%20prescription.pptx) |
+| Dominic Muston | An R package to inform structural assumptions for three state oncology cost-effectiveness models and examine the impact of adjusting for background mortality (psm3mkv) | MSD | [Slides](https://github.com/r-hta/r-hta-workshop-2024/blob/main/content/Muston%20RHTA%20final.pdf) |
 
 
 ## Contributing to this repository
